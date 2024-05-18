@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pavankumar Kolakonda <br/><a href="https://github.com/pavan3325">Programmer</a>, <a href="https://www.linkedin.com/in/pavankumar-kolakonda/">Cybersecurity Enthusiast </a>,</h1>
+<h1>Hi, I'm Pavankumar Kolakonda <br/><a href="https://www.linkedin.com/in/pavankumar-kolakonda/">Cybersecurity Enthusiast </a></h1>
              
 
 <h2> About: </h2>
