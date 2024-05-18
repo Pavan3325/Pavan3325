@@ -25,7 +25,7 @@
 <h2>💻Projects: </h2>
 
   - <b>Intelligent Irrigation System with GSM Technology</b>
-  - <b>Automatic Power Saving System in House</b>
+  - [Automatic Power Saving System in House](https://github.com/users/Pavan3325/projects/2)
 <h2>📜Certifications:</h2>
 
 - <b>Ec-Council</b>
