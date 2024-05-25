@@ -12,7 +12,7 @@
   - SQL
 
 - <b>Tools:</b>
-  - Nmap, KaliLinux, wifite,  aircrack-ng,  DNS,  DHCP, Networking Protocols, Ethical Hacking
+  - SIEM, Nmap, KaliLinux, wifite,  aircrack-ng,  DNS,  DHCP, Networking Protocols, Ethical Hacking
 
 <h2>👨‍💻Qualification: </h2>
   
