@@ -36,7 +36,7 @@
   - [Mastercard - Cybersecurity ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DDmFfMsBL7rZzv2sh_1710258985488_completion_certificate.pdf)
 <h2>Resume</h2>
 
-  - [Download](https://drive.google.com/file/d/1yc6wqh6HLn9k_v7CdqonyyJYz8LFuty0/view?usp=drivesdk)
+  - [Download](https://drive.google.com/file/d/1uqjZiorGgDclJllrJphzfQWQkR39fY1K/view?usp=drive_link)
 <h2> 🤳 Contact:</h2>
 
 [<img align="left" alt="Pavankumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
