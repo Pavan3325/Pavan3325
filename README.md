@@ -9,6 +9,7 @@
 - <b>Programming languages</b>
   - C
   - Python
+  - SQL
 
 - <b>Tools:</b>
   - Nmap, KaliLinux, wifite,  aircrack-ng,  DNS,  DHCP, Networking Protocols, Ethical Hacking
