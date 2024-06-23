@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pavankumar Kolakonda <br/><a href="https://www.linkedin.com/in/pavankumar-kolakonda/">Cybersecurity Enthusiast </a></h1>
+<h1>Hi, I'm Pavankumar Kolakonda <br/><a href="https://www.linkedin.com/in/pavankumar-kolakonda/"> Embedded Systems Enthusiast </a></h1>
              
 
 <h2> About: </h2>
@@ -9,10 +9,9 @@
 - <b>Programming languages</b>
   - C
   - Python
-  - SQL
 
 - <b>Tools:</b>
-  - SIEM, Nmap, KaliLinux, wifite,  aircrack-ng,  DNS,  DHCP, Networking Protocols, Ethical Hacking
+  - Embedded Systems, RTOS, SPI, I2C, UART, USB, Arduino, Raspberry pi, networking protocols(TCP/IP), Cybersecurity.
 
 <h2>👨‍💻Qualification: </h2>
   
@@ -36,7 +35,7 @@
   - [Mastercard - Cybersecurity ](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DDmFfMsBL7rZzv2sh_1710258985488_completion_certificate.pdf)
 <h2>Resume</h2>
 
-  - [Download](https://drive.google.com/file/d/1uqjZiorGgDclJllrJphzfQWQkR39fY1K/view?usp=drive_link)
+  - [Download]()
 <h2> 🤳 Contact:</h2>
 
 [<img align="left" alt="Pavankumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
