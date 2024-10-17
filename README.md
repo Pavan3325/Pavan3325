@@ -2,8 +2,8 @@
              
 
 <h2> About: </h2>
-      Highly motivated and Cybersecurity trained with a strong foundation in Penetration Testing, security risk assessments, vulnerability scans, Networking Protocols and security awareness training. Skilled in identifying and mitigating potential threats, reducing the risk of successful cyber attacks. Committed to staying up-to-date with the latest security trends and technologies to ensure the organization is well-equipped to handle emerging threats.
-      
+     Highly motivated and technically adept fresher with a strong background in Embedded software development, Cybersecurity, and Real-Time Operating Systems (RTOS) on Linux. Good in C and Python programming languages, with comprehensive knowledge of communication protocols such as TCP/IP, SPI, I2C, UART, and CAN. Demonstrated expertise through hands-on projects involving embedded systems and IoT devices, showcasing a strong understanding of hardware-software integration and secure system design. Adept at problem-solving and teamwork, with a keen interest in contributing to innovative solutions in the Embedded and IoT domains.
+     
 <h2>💡Skills: </h2>
 
 - <b>Programming languages</b>
@@ -14,14 +14,18 @@
   - Embedded Systems, RTOS, SPI, I2C, UART, USB, Arduino, Raspberry pi, networking protocols(TCP/IP), Cybersecurity.
 
 <h2>👨‍💻Qualification: </h2>
+
+- <b>**M.Tech in Power Electronics** </b>
+  - CMR College of Engineering & Technology                        
   
-- <b>B.Tech</b>
-  - St.marys Group of Institutions HYD                           (2018-2023)
+- <b>**B.Tech in Electrical and Electronics Engineering** </b>
+  - St.marys Group of Institutions HYD                              (**2018-2023**)
   - CGPA-6.69
   
-- <b>Diploma</b>
-  - Sri indu institute of Engineering and TEchnology                  (2015-2018)
+- <b>**Diploma in Electrical and Electronics Engineering**</b>
+  - Sri indu institute of Engineering and TEchnology                  (**2015-2018**)
   - 67.22%
+    
 <h2>💻Projects: </h2>
 
   - <b>Intelligent Irrigation System with GSM Technology</b>
